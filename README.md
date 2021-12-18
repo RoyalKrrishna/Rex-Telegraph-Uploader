@@ -15,3 +15,7 @@
 ### Support Group
 
 <a href="https://telegram.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+# Support 
+<a href="https://telegram.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/REX_BOTZ-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
