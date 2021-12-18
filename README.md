@@ -8,4 +8,4 @@
 
 ### Support Group
 
-<a href="https://t.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
