@@ -2,9 +2,12 @@
 
 > A simplest telegram to telegra.ph image uploader bot
 
-## Deploy 
+## Deploy Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REX-BOTZ/REX-TELEGRAPH-UPLOADER)
+
+## Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FREX-BOTZ%2FRex-Telegraph-Uploader&plugins=mongodb&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN&API_HASHDesc=Your+API_HASH+from+https%3A%2F%2Fmy.telegram.org%2Fapps&API_IDDesc=Your+API_ID+from+https%3A%2F%2Fmy.telegram.org%2Fapps&BOT_TOKENDesc=Your+Bot+token+from+%40Botfather&referralCode=RexBotz)
 
 # Demo 
 
