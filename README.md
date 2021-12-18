@@ -13,5 +13,5 @@
 <a href="https://t.me/TeleUploaderRexBot"><img src="https://img.shields.io/badge/Telegraph Uploader Rex Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 # Support 
-<a href="https://telegram.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/REX_BOTZ-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.me/REX_BOTS_SUPPORT"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://telegram.me/REX_BOTZ"><img src="https://img.shields.io/badge/REX_BOTZ-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
