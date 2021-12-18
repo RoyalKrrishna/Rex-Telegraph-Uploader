@@ -10,7 +10,7 @@ from telegraph import upload_file
 async def start(client, message):
     await client.send_message(
         chat_id=message.chat.id,
-        text=f"Hello {message.from_user.first_name},\n<b>I'm a Telegram To Telegra.ph Image/Video Uploader Bot. \n Created By @MaI_BotS</b> \n  Do /help For More",
+        text=f"Hello {message.from_user.first_name},\n<b>𝙸'𝚖 Telgram.ph 𝙿𝚑𝚘𝚝𝚘 𝚘𝚛 𝚅𝚒𝚎𝚍𝚘 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛. \n 𝙼𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚎𝚍 𝙱𝚢 @REX_BOTZ</b> \n  Do /help For More",
         reply_to_message_id=message.message_id
     )
 
